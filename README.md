@@ -38,6 +38,7 @@ print(f"Variance is : {var}")
 # calculations
 <img width="973" height="1140" alt="image" src="https://github.com/user-attachments/assets/4382a79e-3401-4110-9e3c-3bef175301d8" />
 
+<img width="804" height="1280" alt="image" src="https://github.com/user-attachments/assets/8912f2ee-ff08-4036-a5bb-3c5607dd7624" />
 
 # Output
 <img width="324" height="144" alt="Screenshot 2025-09-19 092450" src="https://github.com/user-attachments/assets/df27fe19-79fc-403d-80af-5c222a08ef04" />
